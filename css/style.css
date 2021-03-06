@@ -24,7 +24,9 @@ div {
     border: 2px solid black;
     margin-left: auto;
     margin-bottom: 5px;
-    position: right;
+    position: relative;
+    top: -17px;
+    right: -17px;
     width: 150px;
     background-color: pink;
     color: black;
@@ -37,7 +39,9 @@ div {
     border: 2px solid black;
     margin-left: auto;
     margin-bottom: 5px;
-    position: right;
+    position: relative;
+    top: -17px;
+    right: -17px;
     width: 150px;
     background-color: red;
     text-align: center;
@@ -49,7 +53,9 @@ div {
     border: 2px solid black;
     margin-left: auto;
     margin-bottom: 5px;
-    position: right;
+    position: relative;
+    top: -17px;
+    right: -17px;
     width: 150px;
     background-color: yellow;
     color: black;
